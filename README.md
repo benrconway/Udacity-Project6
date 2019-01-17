@@ -1,6 +1,7 @@
 # Udacity Project 6: Setup a Linux Server
 ### Critical information
 IP Address: 35.177.216.90 port: 2200
+
 URL: http://35.177.216.90.xip.io/
 
 Summary of Software Installed:
